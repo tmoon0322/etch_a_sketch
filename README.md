@@ -1,1 +1,1 @@
-# etch_a_sketch
+This is a project made to practice Flexbox and DOM manipulation. 
