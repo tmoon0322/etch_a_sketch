@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+button {
+    margin-bottom: 100px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 640px;
+    height: 640px;
+}
+
+.row {
+    display: flex;
+    flex: auto;
+}
+
+.box {
+
+    border: 1px solid black;
+    flex: auto;
+}
+
+.color_change {
+    background-color: black;
+}
